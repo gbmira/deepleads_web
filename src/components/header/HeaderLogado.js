@@ -19,6 +19,7 @@ const HeaderConteudo = styled.header`
   @media (max-width: 600px) {
     height: 7.125rem;
     padding-inline: 1rem;
+    z-index: 600;
   }
 `;
 
