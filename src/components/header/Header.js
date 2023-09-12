@@ -68,7 +68,7 @@ export const Nav = styled.nav`
       right: -240px;
       width: 240px;
       border-radius: 5px;
-      background: #4B4B4B;
+      background: #2171AC;
       padding: 1rem 0.8rem;
       transition: linear 0.3s;
 
