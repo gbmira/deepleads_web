@@ -15,7 +15,7 @@ export const HeaderWrapper = styled.header`
   height: 80px;
   background: #fff;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
-  z-index: 10;
+  z-index: 600;
 `;
 export const CHeader = styled.div`
   display: flex;
